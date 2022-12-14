@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav div,div div h4, div div p {
+    display: inline;
+}
+#navbarMonstera{
+background-color: #050;
+padding-top: 30px;
+padding-left: 50px;
+padding-right: 50px;
+ } 
+#navFirst{
+/* margin-top: px; */
+}
+#navMid{
+    position: absolute;
+    /* left: 350px; */
+    right: 300px;
+    top: 40px;
+    /* margin-right: 20px; */
+
+    
+
+    
+}
+.home{
+    text-decoration: underline;
+    text-decoration: underline 2px  ;
+
+}
+#navMid div{
+    margin-right: 70px;
+    font-size: 20px;
+    font-weight: lighter;
+    
+    color: #000;
+    margin-bottom: 20px;
+}
+#navEnd{ 
+    
+    float: right;
+    margin-top: 5px;
+    margin-right: 50px;
+    
+ } 
+ #navEnd div{
+    margin-right: 30px;
+ }
+
+ /* end navbar */
+ /* start midpart */
+ #midWhole{
+    background-color: #998;
+ }
+ #midWholePart1{
+    float: left;
+    width: 60%;
+    background-color: #567;
+ }
+ /* #imgMain{
+    float: right;
+    /* margin-top: 10px; */
+    
+    
+ #midWholePart11{
+    position: relative;
+    background-color: #fff;
+    left: 50px;
+    top: 100px;
+    width: 60%;
+ }
+   #monstera{
+    font-weight: 1200;
+    
+}
+ #midWholePart12{
+    position: relative;
+    background-color: #568;
+    left: 50px;
+    top: 100px;
+    width: 88%;
+ }
+  
+ #midWholePart13{
+    position: relative;
+    /* background-color: #578; */
+    display: inline;
+    left: 50px;
+    top: 100px;
+    width: 88%;
+ }
+ li{
+    list-style: none;
+ }
